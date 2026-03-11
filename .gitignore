@@ -1,0 +1,17 @@
+# build
+bin/
+obj/
+
+# env
+.env
+.env.*
+
+# secrets
+secrets.json
+
+# vscode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
